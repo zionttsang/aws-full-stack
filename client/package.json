@@ -30,7 +30,8 @@
     "@types/uuid": "^11.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.1.4",
-    "tailwindcss": "^4",
+    "tailwindcss": "^4.1.18",
+    "tw-colors": "^3.3.2",
     "typescript": "^5"
   }
 }
